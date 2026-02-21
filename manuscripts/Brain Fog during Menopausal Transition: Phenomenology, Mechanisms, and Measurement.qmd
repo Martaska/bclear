@@ -1,0 +1,183 @@
+---
+lang: en
+title: "Brain Fog during Menopausal Transition: Phenomenology, Mechanisms, and Measurement"
+shorttitle: "Menopausal Brain Fog"
+author:
+  - name: Martina Mana
+    corresponding: false
+    orcid: "0009-0007-4665-3946"
+    role:
+      - Investigation
+      - Conceptualization
+      - Writing - original draft
+    affiliations:
+      - id: "FA"
+        name: "Charles University"
+        department: "Faculty of Arts"
+  - name: Eva Dubovska
+    corresponding: false
+    orcid: "0000-0002-1833-8806"
+    email: "dubovska@psu.cas.cz"
+    role:
+      - Writing - original draft
+    affiliations:
+      - id: "SI"
+        name: "Prague College of Psychosocial Studies"
+        department: "Science and Investigation"
+  - name: Tomas Fait
+    corresponding: false
+    orcid: "0000-0002-2812-9274"
+    email: "tomas.fait@lfmotol.cuni.cz"
+    role:
+      - Writing - original draft
+    affiliations:
+      - id: "2FM"
+        name: "Charles University"
+        department: "Department of Obstetrics and Gynaecology"
+  - name: Hana Georgi
+    corresponding: true
+    orcid: "0000-0002-2332-0934"
+    email: "hana.georgi@pvsps.cz"
+    role:
+      - Investigation
+      - Conceptualization
+      - Supervision
+      - Writing - original draft
+    affiliations:
+      - id: "SI"
+        name: "Prague College of Psychosocial Studies"
+        department: "Science and Investigation"
+abstract: "Menopausal “brain fog” refers to a cluster of subjective cognitive complaints commonly including reduced concentration, word-finding difficulties, forgetfulness, slowed thinking, mental fatigue, and fluctuating cognitive clarity. This review synthesizes evidence on phenomenology and cognitive domains, mechanistic and symptom-network correlates, measurement challenges, and clinical implications. Findings indicate that objective cognitive changes during perimenopause are typically small-to-moderate, heterogeneous, and domain-specific (often verbal memory, attention/working memory, and processing speed), whereas subjective complaints are frequent and strongly linked to sleep disturbance, vasomotor and affective symptoms. Perimenopause can be conceptualized as a neurological transition state with substantial inter-individual variability, wherein hormonal fluctuations interact with estrogen-regulated networks and bioenergetics. A key methodological bottleneck is construct operationalization; many studies rely on single menopause-scale items, limiting comparability. Dedicated brain fog instruments combined with symptom profiling and targeted neuropsychological endpoints represent a promising approach. Clinically, validating complaints, assessing modifiable contributors and red flags, and providing clear counselling is recommended; menopausal hormone therapy is not indicated for dementia prevention, although symptom treatment may indirectly support cognition in selected women."
+keywords:
+  - Brainfog
+  - Menopausal Transition
+  - Cognition
+  - Subjective Cognitive Complaints
+  - Vasomotor Symptoms
+  - Sleep
+format:
+  apaquarto-docx: default
+  apaquarto-html: default
+  apaquarto-pdf: default
+  apaquarto-typst: default
+author-note:
+  disclosures:
+    conflict of interest: "The author has no conflict of interest to declare."
+    financial-support: "This study was supported by the Czech Science Foundation under grant number GA22-24846S and IOCB TEC-H Founfation: Martina Roeselova Memorial Fellowship"
+bibliography: bibliography.bib
+floatsintext: false
+numbered-lines: false
+suppress-title-page: false
+warning: false
+echo: false
+---
+
+# Introduction
+
+Perceived subjective cognitive deficits are among the most reported problems during menopausal transition (MT) [@greendale2020; @metcalf2023]. In common language, women often use term the "brain fog" (BF), which is not considered to be a diagnostic category. It is more of a set of functional and self-reported changes [@zhu2022; @denno2025; @haywood2025]. Cognitive difficulties during the MT typically manifest as lapses of forgetfulness, which by themselves do not usually indicate severe neurodegeneration. Nevertheless, they can significantly interfere with work performance, everyday functioning, self-confidence and the perception of identity in some women [@johnson2024; @hinchliff2025; @haywood2025; @greendale2020; @oneill2023]. Moreover, the brain during MT is exposed to dynamic hormonal fluctuations, which integrate with sleep, thermoregulation, affective processes, stress and cognitive functioning [@bangle2025; @kundakovic2022].
+
+Current literature repeatedly pinpoints the existence of a discrepancy between subjectively perceived deficits and objectively captured changes in performance [@weber2012; @unkenstein2016]. In a subset of women, there are significant subjective difficulties without a corresponding decline in objective cognitive tests, whereas in others, minor domain changes can be found without distinct subjective complaints/distress [@bangle2025; @furey2025]. This discrepancy complicates clinical counselling as well as the construction of research studies, as it shifts the focus from the presence of cognitive changes to the phenomenology, specifically, the form and range of change, the target groups most affected, the timing across the MT, and the pathways through which these changes emerge.
+
+From a neurobiological perspective, MT is a state in which hormonal fluctuations can alter estrogen-regulated neuronal networks [@brinton2015; @mosconi2021]. Most women "compensate" for this transition, but some may show higher symptom variability and potentially an increased long-term risk [@brinton2015]. This heterogeneity supports the interpretation of the BF as a phenomenon rather than as a uniform deficit.
+
+The aim of this review study is to provide a compact up-to-date synthesis of knowledge about the menopausal BF, focusing on construct depiction, cognitive profile, symptom correlates, mechanistic frameworks and measurements.
+
+# Methods
+
+## Searching Sources and Strategy
+
+This review study employed a thematic synthesis design. The review process followed standard recommendations PRISMA [@page2021]. Eligible articles required to address the MT and to provide information that could guide clinical assessment or research operationalisation of the menopausal BT.
+
+The literature search was conducted in January 2026 using Web of Science, Scopus, and PubMed databases. To reduce the risk of missing relevant studies, the snowballing method was performed using the Google Scholar platform. Search was built around the following keywords: "brainfog", "menopausal transition", "cognition", "subjective cognitive complaints", "vasomotor Symptoms" and "sleep", limited to the publication window between years 2012 and 2025.
+
+Studies were first screened by title and abstract and subsequently by full-text assessment. **Two independent reviewers (MM and HG) were involved in the process of selecting articles, who assessed abstracts and later full-texts. Both evaluators searched in the same databases under the same keywords.** For the purposes of this review, only studies that included cognitive measurement (objective or subjective) and contributed information relevant for definition and operationalisation for menopausal BF were retained.
+
+## Selection criteria
+
+Papers were included in case they met the following criteria:
+
+\(I\) perimenopause/menopausal transition examination and inclusion of cognitive outcomes;
+
+\(II\) explicitly address subjective cognitive difficulties or BF, or cognitive domains typically associated with BF (e.g., attention, processing speed, verbal learning and verbal memory, language);
+
+\(III\) used eligible designs, such as narrative reviews, longitudinal observational studies, qualitative studies, or psychometric studies of relevant instruments.
+
+Studies were excluded if they did not provide cognitive measurement or did not contain information relevant to constructing a definition or measurement approach for menopausal BF. Menopausal staging was framed using standardised STRAW+10 criteria to support comparability across studies [@harlow2012].
+
+## Analysis and synthesis
+
+All studies included in the review were synthesised thematically. Information gained was further organised into four thematic domains:
+
+\(I\) phenomenology and cognitive profile;
+
+\(II\) symptom network and modifiers (e.g., sleep disturbance, vasomotor symptoms, and psychosocial factors);
+
+\(III\) neurobiological frameworks of heterogeneity;
+
+\(IV\) measurement and operationalisation.
+
+# Results
+
+## Phenomenology and cognitive profile of brainfog during menopausal transition
+
+Menopausal BF is most often described as impaired ability to maintain attention, "losing the thread", slowed thinking, difficulty recalling words, easier overwhelm when multitasking, and mental fatigue. Subjective experiences can be episodic, fluctuating and situated (e.g. more pronounced during lack of sleep, after nighttime hot flashes or during periods of increased stress).
+
+At the level of objective cognition, the literature describes rather small to medium differences that are not global, but domain-specific. The most common changes are in verbal memory (especially learning and recall), in attention/working memory, and in processing speed or psychomotor pace. However, the results are heterogeneous: they vary depending on how the menopausal stage is defined, what tests were used, what population characteristics the sample has (education, health status), and whether key confounding variables, especially sleep and affective symptoms, were controlled.
+
+Significantly, some research suggests the existence of different "profiles" of cognitive functioning in perimenopause. This supports the interpretation that brain fog is not a uniform phenotype: in some women, mental fatigue and attention dysregulation may dominate, in others verbal recall or processing speed, and in others the difficulties may be predominantly subjective and functionally conditioned (e.g. stress).
+
+## Symptoms net: sleep, vasomotor symptoms, affective symptoms, and psychosocial context
+
+The most consistent conclusion across syntheses is that subjective cognitive difficulties in the menopausal transition are significantly related to symptom load. Sleep appears to be a central node: sleep disturbances, sleep fragmentation, and reduced subjective sleep quality are associated with more pronounced complaints of attention, memory, and mental fog. Vasomotor symptoms (hot flashes and night sweats) can contribute in direct and indirect ways: on the one hand, through physiological stress and thermoregulatory stress, on the other hand, through secondary sleep disturbance. Affective symptoms (depression, anxiety, irritability) are also robustly associated with subjective complaints and, in some studies, with objective changes, especially in the domains of working memory and processing speed.
+
+The psychosocial context (work demands, childcare or parenting, life events) can increase the vulnerability to experience BF and at the same time increase the functional impact, even with small changes in performance. Qualitative studies consistently show that women perceive BF not only as a "memory error", but as a violation of identity and self-confidence: fear of "not coping", shame, efforts to mask the problem and active compensatory strategies (notes, routines, reduction of multitasking, planning of demanding tasks for a "better" time of day).
+
+In terms of risk factors and protective factors, health and life determinants are repeated in the literature, namely, cardiometabolic risk, smoking, low physical activity, higher stress and health comorbidities can increase the symptom burden and thus indirectly contribute to the experience of BF. On the other hand, physical activity, quality sleep hygiene, psychoeducation, some psychological interventions focused on stress and sleep, and supportive strategies can have a protective effect.
+
+## Frameworks and heterogeneity
+
+Mechanistic models propose to understand perimenopause as a neurological transition state [@zhu2022]. Hormonal fluctuations, especially changes in estrogen signalling, can affect neuronal networks associated with thermoregulation, sleep and circadian rhythmicity, emotional reactivity and cognitive efficiency. In addition, estrogen is described as an important modulator of brain bioenergetics; Changes in the availability and effectiveness of estrogen signalling can temporarily disrupt the brain's energy "economy" and lead to the experience of mental fatigue and cognitive slowdown.
+
+A key feature of this framework is interindividual variability. Most women go through the transition without long-term consequences; However, in some cases, compensation may be limited by the accumulation of risks (e.g. sleep, affect, metabolic load), and therefore, BF may become a more pronounced and persistent problem. From a long-term perspective, it is important to distinguish transient, symptom-related cognitive difficulties from trajectories that could signal an increased risk of later cognitive decline. However, the literature does not yet provide a simple diagnostic marker; rather, it supports the need for profiling and longer-term follow-up in symptomatic or high-risk cases.
+
+## Operationalisation and measurement: current limits
+
+The most fundamental methodological problem is the operationalisation of the BF construct. Menopausal research often captures cognitive difficulties with a single item on symptom scales (e.g., "memory problems") or with several non-specific items. This strategy is fast, but suffers from low reliability, limited sensitivity to change, and poor comparability across studies. On the other hand, standard neuropsychological tests may be less sensitive to what women describe as "fog": fluctuations in performance, mental fatigue, decreased cognitive acuity, and a subjective feeling of "slowing down."
+
+A promising direction is represented by specialised tools for BF developed in a broader context (e.g. in somatic and post-infectious populations). The Brain Fog Scale is an example of a scale that explicitly measures several dimensions of BF, including mental fatigue, decreased cognitive acuity, and confusion. For the menopausal area, it is crucial to verify the psychometric characteristics in this population: whether the scale measures the same constructs (measure invariance), how it relates to menopausal symptoms, what is its sensitivity to change over time, and whether it has a predictive relationship to functional indicators (work functioning, errors in everyday life).
+
+Optimal measurement of menopausal BF probably requires a combination of:
+
+\(I\) multidimensional self-report of BF;
+
+\(II\) symptom profile (sleep, vasomotor symptoms, mood, stress);
+
+\(III\) targeted cognitive endpoints (verbal learning/memory, working memory, processing speed);
+
+\(IV\) functional outcome variables (subjective cognitive failure, work limitations, self-efficacy).
+
+# Discussion
+
+## Integrative interpretation
+
+Overall, menopausal BF appears to be a phenomenon that arises from the intersection of biological and psychosocial processes. Cognitive efficiency in perimenopause is influenced not only by hormonal changes, but also by the symptom network, especially sleep, vasomotor symptoms and affective load. Therefore, "fog" can be perceived very intensely even when standard cognitive tests detect only small changes. Furthermore, it is important that the experience and interpretation of cognitive difficulties is significantly modulated by the context (work role, stress, social expectations), which increases the need to include functional and psychosocial outcomes in the research.
+
+## Research implications
+
+To make further progress, it is crucial to standardise the definitions of the menopausal stage and harmonise the measurement of BF. The following steps can be recommended:
+
+\(I\) use uniform staging criteria and transparently report on the inclusion of participants;
+
+\(II\) combine subjective and objective endpoints and include functional impact;
+
+\(III\) analyze symptom pathways as mediators and moderators (e.g. sleep as a mediating mechanism between vasomotor symptoms and cognitive complaints);
+
+\(IV\) to consider profiling (subtypes) instead of assuming a "single" BF phenotype.
+
+## Limits
+
+The literature on menopausal BF is limited by the heterogeneity of definitions, methods and samples. Many studies use indirect indicators of BF and lack multidimensional measurements. The results are sensitive to the control of sleep and affective symptoms. Qualitative studies provide a deeper understanding of the experience and functional impact, but are typically based on smaller samples and cannot be directly generalised. Furthermore, psychometric BF tools were often created outside the menopausal population and therefore require specific validation.
+
+## Conclusion
+
+Menopausal BF is a common and clinically improtant phenomenon with a significant impact on functional functioning and self-identity. Objective cognitive changes in perimenopause tend to be rather small and domain-specific, while subjective difficulties are frequent and closely related to sleep, vasomotor symptoms, and affective load. Mechanistic frameworks support the understanding of perimenopause as a neurological transition state with high interindividual variability. A priority for research and clinical practice is the standardization of BF operationalization, harmonization of measurements and targeted interventions focused on modifiable symptom pathways.
