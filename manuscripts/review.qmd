@@ -1,0 +1,157 @@
+---
+lang: en
+title: "Cognitive Function Across the Menopausal Transition: A Systematic Review and Narrative Synthesis"
+shorttitle: "Menopausal Cognition"
+author:
+  - name: Martina Mana
+    corresponding: false
+    orcid: "0009-0007-4665-3946"
+    role:
+      - Investigation
+      - Conceptualisation
+      - Writing - original draft
+    affiliations:
+      - id: "FA"
+        name: "Charles University"
+        department: "Faculty of Arts"
+  - name: Tomas Fait
+    corresponding: false
+    orcid: "0000-0002-2812-9274"
+    email: "tomas.fait@lfmotol.cuni.cz"
+    role:
+      - Writing - original draft
+    affiliations:
+      - id: "2FM"
+        name: "Charles University"
+        department: "Department of Obstetrics and Gynaecology"
+  - name: Hana Georgi
+    corresponding: true
+    orcid: "0000-0002-2332-0934"
+    email: "hana.georgi@pvsps.cz"
+    role:
+      - Investigation
+      - Conceptualisation
+      - Supervision
+      - Writing - original draft
+    affiliations:
+      - id: "SI"
+        name: "Prague College of Psychosocial Studies"
+        department: "Science and Investigation"
+abstract: "This systematic review and narrative synthesis aims to methodically analyse and summarise current evidence of cognitive function changes during the menopausal transition and to situate cognitive findings within midlife cognitive ageing trajectories. Close attention is paid to objectively assessed cognitive performance, subjectively perceived cognitive difficulties, and to the roles of vasomotor symptoms, sleep disturbance and affective symptoms. Moreover, evidence on longer-term cognitive decline and dementia risk is taken into account. Across longitudinal cohorts, menopausal transition was not associated with global cognitive decline. The results consistently supported subtle, domain-specific changes, particularly in verbal episodic memory and processing speed, manifesting as attenuation of expected practice-related gains during late perimenopause with stabilisation or rebound in the postmenopausal stage. Subjective cognitive difficulties showed variable associations with objective performance and were more consistently related to mood symptoms, sleep disruption, and vasomotor symptoms burden, indicating a multicomponent aetiology of menopause-related “brain fog”. Evidence linking menopause to longer-term dementia risk was predominantly observational and suggested stronger associations for earlier age at menopause, including premature and surgical menopause. Overall, menopausal transition-related cognitive changes appear heterogeneous and stage-dependent. Future studies should standardise reproductive staging and explicitly model practice effects to improve comparability and causal interpretability."
+keywords:
+  - Menopause
+  - Perimenopause
+  - Menopausal Transition
+  - Cognition
+  - Subjective Cognitive Complaints
+format:
+  apaquarto-docx: default
+  apaquarto-html: default
+  apaquarto-pdf: default
+  apaquarto-typst: default
+author-note:
+  disclosures:
+    financial-support: "This study was supported by the Czech Science Foundation under grant number GA22-24846S and IOCB TEC-H Founfation: Martina Roeselova Memorial Fellowship"
+bibliography: bibliography.bib
+floatsintext: false
+numbered-lines: false
+suppress-title-page: false
+warning: false
+echo: false
+---
+
+# Introduction
+
+Menopause is defined retrospectively after 12 consecutive months of amenorrhea following the final menstrual period. The menopausal transition (MT) precedes the final menstrual period. It is characterised by menstrual cycle variability and endocrine changes, including decreased production of reproductive hormones, estrogen and progesterone, and irreversible loss of fertility [@soules2001]. Accurate clinical classification of reproductive ageing is essential for clinical practice as well as research. However, clinical practice frequently focuses on subjective cognitive complaints, such as deterioration in concentration, forgetfulness, difficulty recalling words, or mental fatigue, which may have a different relationship to objective performance than in older populations or neurodegenerative diseases [@unkenstein2016].
+
+Although menopause has been recognised in clinical medicine for more than a century [@tilt1870], the contemporary challenge is not the existence of complaints. It is the precision with which menopause-related symptoms, especially cognitive complaints, are operationalised, measured, and interpreted in relation to objective performance.
+
+Cognition is conceptualised as the set of mental processes that enable the acquisition, processing, storage and recall of information, as well as the management of behaviour. In the empirical literature on menopause, tests of attention, working memory, processing speed, verbal learning/memory, and executive functions are typically operationalised [@greendale2010]. Across studies, an objectively detectable decline in cognitive performance is small, domain-specific and significantly dependent on methodology. These changes depend on the definition of the menopausal stage, the choice of test batteries and the consideration of symptoms associated with the transition, i.e., sleep, vasomotor symptoms (VMS) and affective symptoms [@triantafyllou2016; @unkenstein2016; @weber2021; @grummisch2023; @kalleinen2008; @weber2009]. Because menopause is tracked retrospectively, research needs to stage it into clinically meaningful phases to capture time-bound symptoms. Standardisation of staging enables comparability across studies and reduces the risk of inconsistent conclusions. Although an updated systematic review with meta-analysis showed overall worse cognitive performance in perimenopausal women compared to premenopausal women, this effect was observed only in studies that used STRAW+10 staging [@bangle2025]. Studies using alternative stage definitions have not demonstrated a similar effect. This finding supports the need for standardising staging and explicitly reporting classification rules [@harlow2012].
+
+Over the past decades, menopause research has evolved. Earlier research was heavily influenced by hormonal treatment and its preventive expectations, whereas more recent decades have brought a shift toward symptom networks, psychosocial determinants, and neurobiological models of menopause as a transitional state. This evolution is also reflected in the cognitive literature. From the simple search for "decline" to questions about when and in whom subtle domain changes are manifested, and how to improve the measurement of subjective cognition and its functional impact.
+
+# Methods
+
+Given the substantial clinical and methodological heterogeneity among the eligible studies, a quantitative meta-analysis was deemed to be inappropriate. Specifically, sources of heterogeneity included variability in menopausal stage definitions and staging frameworks, differences in the operationalisation of outcomes, including cognitive performance, subjective cognitive symptoms, and neuroimaging/biomarker measures, and diversity in study designs and analytic approaches. As a result, the evidence was synthesised narratively to preserve methodological transparency and to represent the complexity of the evidence base. Neuroimaging/biomarker findings were synthesised narratively and reported as a separate evidence stream alongside behavioural cognitive outcomes.
+
+We included primary empirical studies (cross-sectional or longitudinal) that: a) examined women in the menopausal transition (MT), b) assessed at least one cognitive domain (attention, episodic memory, working memory, executive function, or processing speed), and c) were published in peer-reviewed English-language journals. Additionally, we included neuroimaging and biomarker studies that: a) used a defined reproductive staging framework and b) reported associations with cognitive outcomes or menopause-related cognitive symptoms. Systematic and narrative reviews were used only as secondary resources to contextualise findings and support citation searching and were not treated as units of evidence. Qualitative studies were not formally synthesised, they were used to contextualise experience and clinical communication, but were not counted as included primary studies
+
+We searched PubMed, Web of Science, and Scopus (last searched 16/02/2026) to capture newly indexed publications. To increase sensitivity, we additionally performed citation chasing (backwards and forward) and supplementary searches using Google Scholar. The search used the following combination: "Perimenopause"\[Mesh\] OR "Menopause"\[Mesh\] OR perimenopaus\*\[tiab\] OR menopaus\*\[tiab\] OR "menopausal transition"\[tiab\] OR "menopause transition"\[tiab\] OR climacteric\[tiab\] OR "final menstrual period"\[tiab\] OR FMP\[tiab\] OR STRAW\[tiab\] OR "STRAW+10"\[tiab\] ) AND ( cognit\*\[tiab\] OR "cognitive function"\[tiab\] OR "cognitive performance"\[tiab\] OR memory\[tiab\] OR "verbal memory"\[tiab\] OR "episodic memory"\[tiab\] OR attention\[tiab\] OR "working memory"\[tiab\] OR "executive function"\[tiab\] OR "processing speed"\[tiab\] OR "psychomotor speed"\[tiab\] OR "neuropsychological test\*\[tiab\] OR "neuropsychological assessment"\[tiab\] OR "brain fog"\[tiab\] OR "subjective cognitive"\[tiab\] OR "memory complaint\*\[tiab\] OR "cognitive complaint\*"\[tiab\] OR "subjective memory"\[tiab\] ) AND (humans\[Mesh\]) AND (female\[Mesh\] OR women\[tiab\] OR woman\[tiab\]) AND english\[lang\] NOT (animals\[Mesh\] NOT humans\[Mesh\]) NOT (chemotherap\*\[tiab\] OR chemo\*\[tiab\] OR chemobrain\[tiab\] OR antineoplastic\*\[tiab\]).
+
+Only the eligible primary empirical studies identified from their reference lists and citation chains were assessed for inclusion and, if eligible, extracted and synthesised. The time range was set from 1996 to 2026 to capture research developments on the menopausal transition in the context of longitudinal cohorts.
+
+During data extraction, in addition to scores in objective cognitive domains and subjective cognition scales, we systematically recorded the presence and operationalisation of potential mediators and moderators, namely, vasomotor symptoms, sleep parameters, depressive and anxiety symptoms, psychosocial stress, and attitudes toward menopause, since these factors may explain the discrepancy between subjective complaints and objective performance.
+
+A supplementary search was carried out using the snowballing method, analysing citation chains identified in the studies and using Google Scholar. Records were de-duplicated prior to screening. The evaluators (dala bych singulár, ale to nám asi omlátí o hlavu) screened titles and abstracts against prespecified eligibility criteria. Full texts of potentially eligible records were then assessed independently by the same reviewers. Disagreements were resolved through discussion, with adjudication by a third reviewer when consensus could not be reached. Reasons for exclusion at the full-text stage were recorded.
+
+# Results
+
+Database searching yielded 47 records. After screening, 24 full texts were assessed for eligibility. All studies assessing cognitive performance, subjective cognitive symptoms, or neurobiological correlates met the inclusion criteria. Sample sizes ranged from 30 to more than 2,000 participants. Records identified via citation searching were screened using the same eligibility criteria, but only eligible primary empirical studies were included in the narrative synthesis. Secondary sources identified during snowballing were cited for background or methodological context but were not counted as included studies.
+
+Due to heterogeneity in staging definitions, cognitive measures, and analytic strategies, results are presented as a narrative synthesis with domain-based grouping rather than pooled effect estimates. Subjective cognitive difficulties (SCD) were measured using self-assessment scales or individual items focused on perceived changes in memory and concentration. The direct link between subjective complaints and objective performance showed variable results. Overall, research on cognition in the MT is characterised by the predominance of observational designs and considerable variability in the operationalisation of cognitive domains. Nevertheless, longitudinal data allow differentiation between the effects of chronological ageing and those associated with the menopausal transition, especially on verbal memory and processing speed.
+
+# Narrative synthesis
+
+## Cognitive Profile of Women in MT
+
+The available literature consistently indicates that cognition changes during the MT are not uniform. They vary according to stage, symptom profile, psychological state, sleep, and comorbidities [@metcalf2023]. The key areas are summarised below.
+
+## The extent and character of objective changes in cognition
+
+The most robust longitudinal evidence comes from the Study of Women's Health Across the Nation (SWAN) cohort, which repeatedly assessed performance in key cognitive domains, namely processing speed (Symbol Digit Modalities Test), verbal episodic memory (East Boston Memory Test) and working memory (Digit Span Backwards). SWAN evidence suggests that the MT-related cognitive change is better characterised as attenuation of expected practice-related gains rather than a global decline. Specifically, women showed reduced improvement across repeated assessments, especially in SDMT and verbal memory, during late perimenopause. After the transition to postmenopause, improvement trajectories generally rebounded [@greendale2009; @karlamangla2017]. Furthermore, the analyses point out the importance of explicitly modelling learning effects when estimating midlife cognitive trajectories [@greendale2010].
+
+## Subjective vs objective cognitive changes
+
+SCD are very common, but the relationship to objective performance is variable. SCD in MT can be interpreted as the outcome of a complex causal structure in which the reproductive stage itself acts indirectly through biological-symptomatic and psychosocial pathways. In the first pathway, the MT stage is associated with hormonal fluctuation, which increases the likelihood and intensity of vasomotor symptoms and the associated sleep fragmentation [@thurston2011; @baker2018]. These factors are likely to impair attention and processing speed domains, and may reduce performance on memory tasks [@thurston2011; @baker2018]. In the second pathway, the MT stage operates through contextual stressors and especially attitudes towards menopause, which increase the likelihood of reported cognitive impairment independently on objective performance [@ayers2010; @unkenstein2016]. Affective symptoms, such as depression and anxiety, play a dual role here. They can either act as a mediator, i.e., MT leads to a higher risk of depressive episodes, causing more subjective complaints and cognitive distress [@bromberger2011], or as a moderator that amplifies the relationship between symptom load and subjectively perceived cognitive difficulties [@unkenstein2016]. This model explains why the relationship of subjective complaints to objective performance across studies is variable. Subjective cognition is more sensitive to mood, sleep, VMS, and the interpretive framework than to subtle domain-specific changes detectable by neuropsychological tests [@unkenstein2016; @gava2019; @zhu2025]. A recent study on menopause-related subjective cognitive symptoms "brain fog" further underscores the relevance of modifiable psychosocial correlates [@zhu2025], with counselling as emphasising the usually non-dementing nature of symptoms of brain fog alongside modifiable risk factors and symptom management strategies [@maki2024]. Higher mindfulness was associated with reduced odds of both retrieval and attentional complaints, whereas psychosocial menopause-related quality of life (QoL) burden was associated with greater odds of attentional symptoms, consistent with a multicomponent aetiology model [@zhu2025]. At the same time, some longitudinal studies report the validity of subjective difficulties in relation to performance, especially in memory tasks and in highly symptomatic women [@schaafsma2010; @drogos2013]. The differences between the studies can be plausibly explained by differences in the choice of instruments, stages, and controls for confounding variables.
+
+## Risk and protective factors
+
+A systematic narrative synthesis identified a wide range of factors, such as demographic, socioeconomic, lifestyle, and reproductive characteristics, associated with cognition during the menopausal transition. The role of affective, vasomotor, and sleep symptoms, along with the complex pathways of influence, is consistently noted [@zhu2022]. Stable indicators of cognitive reserve play an important protective role by increasing baseline performance across domains [@greendale2009].
+
+Heterogeneity is well illustrated by a longitudinal study of cognitive profiles, which identified a group prone to weaknesses in verbal learning and memory, characterised by lower hormonal variability and higher rates of sleep disorders [@weber2021]. This result supports the concept that risk is not only a function of the average decrease in hormone levels but also of the dynamics of hormone fluctuations and comorbid symptoms [@metcalf2023].
+
+Early menopause and surgical menopause are important factors for long-term risks. Observational cohort studies show that premature menopause (typically \<40 years) is associated with an increased risk of incident dementia even after adjustment to available covariates [@hao2023; @dobson2024].
+
+Emerging evidence also points to potentially modifiable physiological correlates beyond VMS, sleep and affective symptoms. In a recent study of perimenopausal women combining cognitive tasks with brain imaging estimates of brain iron, higher systemic iron status was associated with better cognitive performance [@barnett2025]. Although these outcomes are observational, they suggest that iron status may be a relevant, clinically actionable correlate of subjective cognitive symptoms.
+
+## Sleep, vasomotor and affective symptoms as covariates
+
+The prevalence of sleep difficulties increases during the menopausal transition. In some women, these problems are clinically significant and are associated with deterioration in daily functioning and QoL [@baker2018; @shifren2014]. VMS, especially nocturnal flushes and night sweats, represent a significant component of sleep fragmentation during the menopausal transition: they are associated with poorer sleep continuity and consistently predict subjective difficulty in maintaining sleep even after other factors are taken into account [@baker2018; @dezambotti2014; @thurston2011]. Depressive episodes are more common during the MT. In the SWAN study, women were 2-4× more likely to have an episode of depression occurrence in perimenopause than in premenopause, even after adjusting for a history of depression and other relevant covariates. [@bromberger2011].
+
+All these symptoms have a dual meaning. They can directly impair attention and memory, increase subjective cognitive distress, and act as mediators between the stage and experience of cognitive difficulties [@greendale2010]. In a pilot study with objective monitoring of VMS, the number of objectively detected nocturnal hot flashes predicted performance in delayed verbal memory, while subjectively reported hot flashes did not [@maki2008]. At the same time, sleep duration contributed independently, supporting the hypothesis that some cognitive difficulties may be mediated by physiological processes associated with VMS, rather than solely by symptom perception [@maki2008].
+
+## Neuroimaging and biomarker findings
+
+Multimodal neuroimaging studies document differences in grey matter volume (GMV), connectivity, and energy metabolism across stages of MT [@mosconi2021; @he2021; @testo2025]. In a large, multimodal study, significant differences in structural and functional indicators across MT stages were observed in women aged 40-65 years. Some postmenopausal biomarkers stabilised, and in certain areas, GMV recovery and the association between preserved cognition and ATP production were observed, supporting the authors’ compensation hypothesis [@mosconi2021].
+
+The neurovascular changes are also present. Physiologically measured VMS, especially during sleep, were associated with greater white matter volume in women aged 45–67 years of age without hormone therapy, regardless of the number of covariates [@thurston2023].
+
+# Discussion
+
+Synthesis of cognitive studies and multimodal neuroimaging suggests that the MT is relevant and detectable at both behavioural and neurobiological levels. However, findings do not indicate a uniform global cognitive attenuation of practice-related gains. Rather, the prevailing pattern is of subtle, domain-specific and frequently transient changes with performance trajectories commonly normalising after the MT during postmenopause in many women [@elkhoudary2019; @maki2016; @mosconi2021].
+
+The key methodological conclusion is the need to standardise the staging of the MT and to model practice effects in repeated neuropsychological testing explicitly. Meta-analytic evidence suggests that staging choice can moderate observed cognitive differences: an updated meta-analysis found poorer cognitive outcomes in perimenopause compared to premenopause, but only in studies applying STRAW+10 staging criteria. Other studies using alternative criteria did not support the same negative effect [@bangle2025]. Therefore, inconsistent staging may partially explain discrepant findings across cohorts and supports treating STRAW+10 as a methodological standard [@harlow2012]. Without standardisation, there is a risk of merging biologically different stages of transition into a single category [@bangle2025]. Similarly, interpreting longitudinal changes without explicit modelling of learning effects might be misleading, because the norm in middle age is for performance to improve with repeated administrations [@greendale2010]. Since the practice effect can mask small domain-specific changes in midlife, we consider it essential that future studies report and model learning across repeated testing as standard practice. This procedure is apparent in later SWAN analyses, which explicitly model practice effect when estimating cognitive ageing in midlife [@karlamangla2017].
+
+The discrepancy between the subjective and objective levels is not a measurement error, but a reflection of a multicomponent aetiology. Subjective difficulties are sensitive to mood, sleep, VMS and contextual factors, such as stress or workload. In comparison, objective deficits are often small and require sensitive tools and adequate staging [@unkenstein2016]. Qualitative work suggests that, in addition to performance, the dimensions of identity and control are equally important, relevant to clinical communication and destigmatisation[@johnson2024; @he2025; @daly2025; @hoga2015].
+
+At the same time, the neuroimaging literature shifts the interpretation from a purely psychological condition to a mixed model of vulnerability and adaptation. The MT stage is associated with changes in GMV, connectivity, and energy metabolism, with some parameters stabilising or undergoing compensatory reorganisation after menopause [@mosconi2021].
+
+Evidence for the long-term risk of cognitive decline and dementia in relation to menopause comes predominantly from observational cohorts and pooled analyses. The interpretation of these studies is necessarily limited by the possibility of residual confounding bias, e.g., vascular-metabolic risk factors, comorbidities, and access to medical care, and by heterogeneity of exposure, e.g., menopausal age or indications for surgery. For this reason, it is appropriate to formulate conclusions at the level of risk associations and heterogeneity, not causal statements  [@dobson2024; @hao2023]
+
+A relatively more consistent and strong signal across the big data supports the association between an earlier age of natural menopause and a higher risk of incident dementia. The most pronounced risk is described at an earlier age of natural menopause, i.e., premature menopause at \<40 years. This pattern is consistent with the hypothesis that earlier cessation of ovarian hormonal production may be associated with increased long-term vulnerability. At the same time, however, it must be emphasised that empirical data cannot definitively separate hormonal mechanisms from shared risk trajectories [@dobson2024; @hao2023].
+
+Evidence in surgical menopause is more complicated due to the exposure being strongly influenced by the indication for the procedure of oophorectomy, age during the procedure and subsequent management after surgery. As a result, it is difficult to distinguish the effect of surgery from the influence of previous health status and other factors that may determine the risk of cognitive decline. Therefore, we recommend presenting surgical menopause as an area with heterogeneous evidence and a higher risk of bias, rather than as a single risk factor [@bove2014; @dobson2024].
+
+# Clinical Implications
+
+Clinical practice should be based on the fact that cognitive difficulties in the MT are common, but their aetiology is heterogeneous. A recent study recommends that clinicians evaluate not only the menopausal stage but also sleep, depressive symptoms, and VMS related to perimenopausal cognitive complaints [@metcalf2023]. However, intervention studies targeting cognition in perimenopause are not robust enough.
+
+The pragmatic clinical algorithm includes: 1) reproductive staging, preferably STRAW+10, 2) screening of depressive and anxiety symptoms and current stressors, 3) sleep assessment, 4) mapping of VMS and their timing during the day and night, 5) basic internal examination, 6) vascular-metabolic risk assessment and 7) indication of neuropsychological examination in case of non-compliance, progression, or impact on functional fitness [@harlow2012].
+
+Menopausal hormone therapy (HRT) remains the most effective treatment for VMS and to improve the QoL of patients [@the20222022]. However, in the context of cognitive complaints, it is important to distinguish symptom-driven effects, i.e., indirect improvement in SCD through reduced VMS and improved sleep, from dementia-prevention claims. HRT may plausibly improve perceived cognitive difficulties indirectly by reducing VMS and sleep disruption, rather than by exerting a primary nootropic effect [@fait2010; @duralde2023]. Trial evidence in symptomatic women supports the distinction between indirect symptom relief and procognitive claims. In the randomised, double-blind trial in postmenopausal women with subjective cognitive complaints, short-term conjugated equine estrogens did not improve cognitive outcomes in comparison with placebo [@maki2007]. Women with baseline VMS experienced symptom alleviation and improved general QoL, but did not show cognitive benefits [@maki2007]. KEEPs long-term study with follow-up data is also reassuring regarding neurocognitive safety but it does not support a preventive or procognitive indication. Scientists reassessed women approximately 10 years after short-term HRT was initiated in early postmenopause, finding no evidence of long-term cognitive benefit or cognitive harm compared with placebo [@gleason2024]. Together with current guideline recommendations, this evidence supports interpreting any improvement in cognitive complaints during HRT primarily as an indirect symptom-mediated effect rather than evidence for dementia prevention or a direct procognitive mechanism [@the20222022]. Despite conceptual models, such as the critical window hypothesis [@maki2013], current evidence is insufficient to recommend HRT for prevention or treatment of cognitive decline or dementia at any age [@the20222022]. Importantly, any improvement in cognitive complaints with HRT should be interpreted primarily as an indirect symptom-mediated effect rather than as evidence of a direct procognitive mechanism [@santoro2020; @duralde2023]
+
+Given that a significant proportion of dementias in the population is attributed to modifiable risk factors, it is expedient for the care of women in menopausal transition to routinely include screening and management of these factors (e.g. blood pressure, diabetes, obesity, physical activity, depression treatment, hearing loss, social isolation). However, this approach cannot be interpreted as evidence that the menopausal transition itself is a causal target for dementia prevention. It is about using contact with health care during periods of increased symptom burden to optimise generally applicable prevention strategies [@livingston2024].
+
+# Conclusion
+
+Conclusively, the MT represents a period in which both subjective and objectively measurable changes in cognition can occur, underlining the need for clearer classification of reproductive stages and systematic evaluation of cognitive trajectories. The most consistent evidence supports mild and often transient decrements, particularly in verbal learning and processing speed, with significant inter-individual variability observed. SCD are significantly modulated by sleep, mood, and VMS, and may be clinically relevant even when neuropsychological performance is within normal limits. Neuroimaging studies further demonstrate that the MT is associated with alterations in brain structure and function, as well as compensatory mechanisms. However, further research is needed to address persistent gaps, including the use of sensitive measures to capture subtle cognitive changes, the role of modifiable physiological and psychosocial factors. Consequently, health professionals are not recommended to prescribe HRT primarily to treat cognitive difficulties or prevent dementia. The optimal clinical strategy is multidisciplinary and includes accurate staging, differential diagnosis, and targeted prevention of modifiable risk factors for cognitive ageing.
