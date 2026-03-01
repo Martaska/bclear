@@ -1,0 +1,46 @@
+---
+title: "B_CLEAR_proposal"
+format: docx
+editor: visual
+---
+# State of the art and the applicant’s contribution
+
+# Core ideas, timelessness, objectives, methods, schedule and expected results
+
+## Core ideas and timelessness
+
+## Design overview
+
+## Time schedule
+
+# Risk identification and mitigation
+
+# Scope and content of international collaboration
+
+# Co-applicant justification (if applicable)
+
+# Preparedness of the team, infrastructure, equpment, and cooperation potential
+
+# Team description, role justification, and capacity
+
+**PI:** PhDr. Hana Georgi, Ph.D. – overall scientific leadership; neuropsychological battery supervision; psychometric strategy; dissemination. Prior work in neuropsychological measurement/review supports readiness.
+
+Senior researcher: Mgr. Filip Havlík, Ph.D. – longitudinal modeling, cognitive efficiency metrics, advanced statistics, and reproducible pipelines; experience in neuropsychological research outputs.
+
+Survey/qualitative mapping lead (optional deepening): Eva Dubovská, Ph.D. – development of survey-based construct mapping (open-ended modules, thematic coding framework), integration with quantitative psychometrics; expertise in narrative/meaning-making research.
+
+Data manager: Martina Maná, MSc. – data structure, QA/QC, codebooks, DMP coordination; documented experience in neuropsychological methods synthesis.
+
+**Data management supervisor:** Mgr. Josef Mana, Ph.D. – oversight of neuropsychological methodology, harmonization, and reproducibility standards; relevant publication track in neuropsychological measurement.
+
+Clinical consultant (HRT and menopause medicine): MUDr. Tomáš Fait, Ph.D. – ensures valid characterization of menopausal status pathways, HRT exposure metadata, and medically coherent interpretation; contributes to knowledge translation while preserving non-interventional design.
+
+# Research data description and data handling
+
+# Potential contribution and future applicant potential
+
+# Communication plan
+
+# Key references
+
+
