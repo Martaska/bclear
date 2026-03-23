@@ -1,0 +1,193 @@
+---
+title: "PERIFOG - power analysis"
+author: "Joe M."
+format: html
+echo: false
+---
+
+```{r}
+#| label: envir
+#| warning: false
+
+library(tidyverse)
+library(gt)
+library(semTools)
+library(presize)
+library(semPower)
+```
+
+Power analysis for the _"Brain-fog vs. Cognitive Loss in Perimenopause: Evidence-based Assessment"_ **(PERIFOG)** grant proposal.
+
+## Aims:
+
+1. to operationalise Perimenopausal Brain Fog (PMBF) as a multidimentsional latent construct
+2. to examine links between PMBF, subjective cognitive complaints (SCC), menopausal symptoms, sleep disturbance, and affective burden
+3. to test whether PMBF associates with cognitive profile characterised by reduced cognitive efficiency rather than delayed verbal memory deficit
+4. to assess whether PMBF fluctuations are associated with vasomotor symptoms (VMS) burden, autonomic activation and sleep continuity
+5. to evaluate whether cognitive and symptom PMBF profile remains after adjustment for post-COVID history
+
+## Variables
+
+```{r}
+#| label: tbl-vars
+
+tibble(
+  domain = c(
+    "(PM) Brain Fog",
+    "(PM) Brain Fog",
+    "Subjective cognitive complaints",
+    "Subjective cognitive complaints",
+    "Menopausal symptoms",
+    "Menopausal symptoms",
+    "Menopausal symptoms",
+    "Menopausal symptoms",
+    "Sleep",
+    "Sleep",
+    "Affective burden",
+    "Affective burden",
+    "Cognition - processing speed",
+    "Cognition - processing speed",
+    "Cognition - memory",
+    "Cognition - memory",
+    "Physical activity",
+    "Physical activity",
+    "Physical activity",
+    "COVID"
+  ),
+  Measure = c(
+    "Brain Fog Scale (Atik 2023)",
+    "Brain Fog Scale (Debowska 2024)",
+    "Everyday Memory Questionnaire-Revised",
+    "Le Questionnaire de Plainte Cognitive",
+    "Greene Climacteric Scale",
+    "COMMA-aligned VMS indicators",
+    "cEDA / wearable physiological metrics",
+    "Wearable-derived skin temperature",
+    "Insomnia Severity Index",
+    "Fitbit Sense 2 sleep metrics",
+    "State-Trait Anxiety Inventory",
+    "Beck Depression Inventory-II",
+    "Neuropsychological test",
+    "Neuropsychological test",
+    "Neuropsychological test",
+    "Neuropsychological test",
+    "Self-report questionnaire",
+    "Senior Fitness Test component",
+    "Fitbit Sense 2 accelerometry",
+    "Self-report (history + persistent symptoms)"
+  )
+) |>
+  gt()
+```
+
+```{r}
+#| label: tbl-aims
+
+tibble(
+  Aim = c(
+    "Aim 1: Operationalise PMBF",
+    "Aim 2: Associations (PMBF network)",
+    "Aim 3: Cognitive profile of PMBF",
+    "Aim 4: Within-person fluctuation links",
+    "Aim 5: Adjustment for post-COVID"
+  ),
+  Outcome = c(
+    "PMBF latent construct",
+    "PMBF latent construct",
+    "Cognitive performance (processing speed, memory)",
+    "PMBF (within-person variation)",
+    "cognitive outcomes, menopausal symptoms, sleep, affective burden"
+  ),
+  Exposures = c(
+    "BFS+ item pool",
+    "SCC, menopausal symptoms, sleep, affective burden",
+    "PMBF latent construct",
+    "VMS burden, autonomic activation, sleep continuity",
+    "PMBF"
+  ),
+  Covariates = c(
+    "None (measurement model)",
+    "Age, education, physical activity, COVID history",
+    "Age, education, affective burden, sleep, physical activity",
+    "Time, individual baseline levels, physical activity",
+    "COVID history, age, education, physical activity"
+  ),
+  Notes = c(
+    "CFA + IRT for scale refinement",
+    "SEM or network model (possibly bidirectional)",
+    "Test dissociation: processing speed vs memory",
+    "Multilevel / time-series (EMA or repeated wearable data)",
+    "Sensitivity / robustness analysis"
+  )
+) |>
+  gt()
+```
+
+## Aim 1
+
+CFA fit via `semTools::findRMSEAsamplesize()` and simulaitons for measurement invariance (BF vs non-BF groups).
+
+## Aim 2
+
+```{r}
+#| label: corr-pwr
+#| echo: true
+
+# Aim 2
+presize::prec_cor(r = seq(.3, .7, .1), conf.width = 0.20)
+```
+
+## Aims 3-5
+
+<https://claude.ai/share/313444a2-af9a-47c0-a673-63775fef2b22>
+
+## Aim 3
+
+```{r}
+#| label: aim-3
+#| echo: true
+
+model.h0 <- "
+  PS  =~ 0.707*x1 + 0.707*x2
+  MEM =~ 0.707*x3 + 0.707*x4
+  PS  ~  0.00*group
+  MEM ~  0.00*group
+  PS  ~~ 0.00*MEM
+"
+
+model.h1 <- "
+  PS  =~ 0.707*x1 + 0.707*x2
+  MEM =~ 0.707*x3 + 0.707*x4
+  PS  ~  0.40*group
+  MEM ~  0.00*group
+  PS  ~~ 0.00*MEM
+"
+summary(semPower.powerLav(
+    type = "a-priori",
+    modelH0 = model.h1,
+    modelPop = model.h0,
+    alpha = 0.05,
+    beta = 0.20
+))
+```
+
+## Aim 4
+
+```{r}
+#| label: aim-4
+#| echo: true
+
+# Aim 4
+summary(semPower.powerMediation(
+    "a-priori",
+    bYX = 0.2,
+    bMX = 0.2,
+    bYM = 0.25,
+    alpha = 0.05,
+    beta = 0.20,
+    nIndicator = c(1, 1, 1),
+    loadM = c(1, 1, 1)
+))
+```
+
+

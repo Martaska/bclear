@@ -1,0 +1,6 @@
+# Disqualify the following formats from tracking:
+*_files/
+*.html
+*.docx
+*.pages
+*.pdf
